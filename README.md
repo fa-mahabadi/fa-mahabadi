@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fa-mahabadi
+- 👋 Hi, I’m Fatemeh Mahabadi
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - ⚡ programming is fun....!!
