@@ -2,6 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - ⚡ programming is fun....!!
+  
  ![me](235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif)
 
 
